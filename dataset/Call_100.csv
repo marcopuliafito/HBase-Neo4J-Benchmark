@@ -1,0 +1,101 @@
+ID,FULL_NAME,FIRST_NAME,LAST_NAME,CALLING_NBR,FULL_NAME_CALLED,CALLED_NBR,START_DATE,DURATION,END_DATE,CELL_TOWER,CITY,STATE,ADDRESS
+1,Cynthia Hallewell,Cynthia,Hallewell,48(812)215-1113,Conant Bellison,254(525)271-0075,1588092956,260,1588093216,57,Great Neck,NY,0 Hooker Hill
+2,Chryste Antrag,Chryste,Antrag,51(764)604-4386,Drusy Casillis,33(561)457-6697,1591250619,229,1591250848,114,Syracuse,NY,179 Service Park
+3,Gallard Gilfoy,Gallard,Gilfoy,46(490)710-0370,Asher Crucitti,7(745)791-1324,1574041348,158,1574041506,85,Bronx,NY,701 Kropf Hill
+4,Giacomo Zanelli,Giacomo,Zanelli,63(131)521-1952,Adena de Juares,55(129)763-9548,1599636679,179,1599636858,146,New York City,NY,9 Elka Drive
+5,Fianna Dyton,Fianna,Dyton,62(379)141-6737,Lynda Simonou,81(465)427-7685,1583615299,255,1583615554,67,Flushing,NY,6 Loftsgordon Center
+6,Filmer Jozefowicz,Filmer,Jozefowicz,86(508)562-3644,Catharine Atyeo,55(120)613-0628,1587285951,107,1587286058,67,New York City,NY,433 8th Junction
+7,Phillie Buxton,Phillie,Buxton,54(596)376-2816,Lowrance Capps,86(193)126-8954,1577257607,163,1577257770,68,Albany,NY,31690 Claremont Plaza
+8,Gussi Goggan,Gussi,Goggan,48(282)787-7570,Germana Shirer,351(114)128-9757,1590790972,52,1590791024,25,New York City,NY,87383 Steensland Point
+9,Hilarius Grimsey,Hilarius,Grimsey,84(726)766-0805,Ilene Corey,86(415)473-0225,1595363280,179,1595363459,34,Rochester,NY,34 Cardinal Junction
+10,Lesya Pender,Lesya,Pender,62(218)388-6689,Irma Baudacci,86(830)614-8106,1573474816,194,1573475010,99,Syracuse,NY,177 Morrow Way
+11,Malorie Bywaters,Malorie,Bywaters,86(212)436-7743,Ettie Debrick,63(783)990-0002,1600789971,331,1600790302,113,Buffalo,NY,260 Lakewood Gardens Alley
+12,Haydon Akitt,Haydon,Akitt,39(883)497-1444,Denna Millea,49(720)972-5744,1595992541,99,1595992640,61,Schenectady,NY,15581 Grover Pass
+13,Goldina Ventham,Goldina,Ventham,7(903)352-2461,Susanne Bosch,359(813)549-6117,1585014046,255,1585014301,93,New York City,NY,78976 Maywood Pass
+14,Elyn Bellelli,Elyn,Bellelli,351(548)650-8038,Tansy Shakesby,55(527)211-3676,1580470419,343,1580470762,82,Albany,NY,0330 5th Avenue
+15,Vicki Tribe,Vicki,Tribe,380(277)565-4975,Jayne O'Hanley,1(336)497-7203,1591686212,94,1591686306,52,Syracuse,NY,1302 Saint Paul Crossing
+16,Marie-jeanne Van Ross,Marie-jeanne,Van Ross,7(785)620-8619,Leo Plimmer,98(915)859-7379,1578660474,231,1578660705,59,Brooklyn,NY,78526 Aberg Plaza
+17,Selena Claessens,Selena,Claessens,62(283)896-7723,Doti Floweth,237(780)942-8575,1581578649,115,1581578764,16,New York City,NY,9047 Fieldstone Circle
+18,Irma Baudacci,Irma,Baudacci,86(830)614-8106,Talbot Manby,264(853)905-3111,1580519242,118,1580519360,42,New York City,NY,6 Fremont Parkway
+19,Laurene Boshier,Laurene,Boshier,53(647)604-6254,Tansy Shakesby,55(527)211-3676,1590766431,61,1590766492,32,Buffalo,NY,7 Buhler Pass
+20,Erda Pikett,Erda,Pikett,54(758)710-4450,Amby Orchard,380(604)210-5324,1601664205,120,1601664325,125,Schenectady,NY,4 Butternut Junction
+21,Jena Bezley,Jena,Bezley,62(609)137-3083,Kamila Patemore,46(961)834-0967,1576313092,137,1576313229,109,White Plains,NY,7 Mcbride Avenue
+22,Levin Whyteman,Levin,Whyteman,389(925)335-0651,Gerhardt Dobsons,55(168)375-4582,1597625128,40,1597625168,44,Schenectady,NY,9324 Cardinal Court
+23,Gerti Wilkie,Gerti,Wilkie,504(405)846-0174,Rozamond Pluck,964(876)391-4264,1603580508,337,1603580845,75,New York City,NY,0622 Namekagon Street
+24,Aubrey Tomaskunas,Aubrey,Tomaskunas,351(716)372-4981,Ethelin Borrow,86(148)668-2264,1603386011,354,1603386365,141,Syracuse,NY,623 Meadow Valley Plaza
+25,Carree Chaff,Carree,Chaff,53(119)776-0880,Albertine Ashlee,46(179)364-6368,1586332913,113,1586333026,24,Brooklyn,NY,35447 Transport Parkway
+26,Kelci Cisneros,Kelci,Cisneros,52(829)214-0863,Joey Larmuth,66(878)805-8478,1600323663,92,1600323755,121,Great Neck,NY,0 Coolidge Street
+27,Jayson Sample,Jayson,Sample,51(186)257-8905,Rosanna Deeson,7(117)488-1797,1579486344,360,1579486704,39,Brooklyn,NY,3001 Anzinger Avenue
+28,Leo Plimmer,Leo,Plimmer,98(915)859-7379,Dominga Verduin,30(249)492-8859,1573754459,180,1573754639,101,Bronx,NY,4 Cottonwood Alley
+29,Jayson Sample,Jayson,Sample,51(186)257-8905,Zora Riseley,86(127)963-0690,1587083185,249,1587083434,14,New York City,NY,9 Swallow Point
+30,Cy Summerell,Cy,Summerell,48(127)632-9747,Ephraim Manklow,31(808)190-8144,1597740109,255,1597740364,14,New York City,NY,6570 Orin Point
+31,Maryann Callf,Maryann,Callf,81(435)325-0641,Murry Luckham,86(716)925-0143,1599703444,48,1599703492,125,New York City,NY,148 Haas Center
+32,Alair Gounet,Alair,Gounet,971(111)329-8517,Robbyn Franca,86(290)697-7607,1595343370,191,1595343561,47,New York City,NY,756 Declaration Hill
+33,Morgan Gobel,Morgan,Gobel,992(249)756-5499,Gardiner Silcocks,52(230)340-1750,1585341992,265,1585342257,50,Buffalo,NY,7079 Lyons Way
+34,Ashlin Nanninini,Ashlin,Nanninini,86(372)405-9640,Chad Goodings,81(870)267-4831,1574146446,64,1574146510,80,Albany,NY,6410 Spenser Way
+35,Larisa Visco,Larisa,Visco,380(865)967-8693,Filmer Jozefowicz,86(508)562-3644,1598180022,221,1598180243,100,New York City,NY,39639 Rutledge Junction
+36,Rori Giorgi,Rori,Giorgi,48(390)569-3061,Katrina Wheildon,351(507)495-3520,1600916851,131,1600916982,109,Brooklyn,NY,8767 Troy Pass
+37,Curran Scocroft,Curran,Scocroft,63(533)121-5830,Sib Vink,880(348)172-4575,1601731009,201,1601731210,48,New York City,NY,88 Prairie Rose Park
+38,Marissa Gilson,Marissa,Gilson,593(653)791-8442,Pietra Rickaert,62(449)431-7790,1603878336,52,1603878388,33,New York City,NY,0641 Arapahoe Crossing
+39,Andie Cadamy,Andie,Cadamy,86(898)915-5478,Oran Spillard,62(119)452-0590,1581998582,7,1581998589,110,New York City,NY,70 Stang Road
+40,Porter Franek,Porter,Franek,1(158)820-4293,Reeva Palek,502(105)753-2258,1599386994,321,1599387315,92,Utica,NY,1 Rusk Avenue
+41,Conant Bellison,Conant,Bellison,254(525)271-0075,Angelika MacCahee,86(167)442-7649,1594226394,104,1594226498,147,White Plains,NY,1192 Helena Pass
+42,Vicki Tribe,Vicki,Tribe,380(277)565-4975,Blinny Shinton,86(920)663-6535,1587943655,262,1587943917,148,New York City,NY,3620 Welch Court
+43,Georg MacCarrick,Georg,MacCarrick,86(856)717-2286,Adan Sowden,55(579)614-4258,1582141080,328,1582141408,33,Rochester,NY,80 Schmedeman Court
+44,Wileen O'Lennane,Wileen,O'Lennane,48(240)472-2214,Jaquelin Lackney,7(954)895-8067,1574178342,93,1574178435,38,Buffalo,NY,46268 Blue Bill Park Trail
+45,Wendall Russilll,Wendall,Russilll,46(360)453-1700,Rozalie Tejada,54(880)925-2832,1593389490,152,1593389642,124,Jamaica,NY,16 Prairie Rose Plaza
+46,Zora Riseley,Zora,Riseley,86(127)963-0690,Filip Gauvin,1(727)166-7794,1576054161,89,1576054250,22,New York City,NY,9950 Hoepker Road
+47,Kelci Cisneros,Kelci,Cisneros,52(829)214-0863,Hana Cleland,66(270)798-8344,1594897948,291,1594898239,96,Albany,NY,32 Myrtle Parkway
+48,Bernadine Renshaw,Bernadine,Renshaw,95(870)194-3318,Olav Cashin,36(666)531-9945,1593503952,71,1593504023,146,Buffalo,NY,90329 Donald Plaza
+49,Goldi Readwin,Goldi,Readwin,86(765)608-4238,Madelyn Sent,357(462)699-6679,1580110382,314,1580110696,43,Albany,NY,64 Meadow Vale Hill
+50,Martie Botfield,Martie,Botfield,54(199)452-2866,Dwain Bortolussi,55(560)194-5513,1598403128,54,1598403182,36,Buffalo,NY,421 Mccormick Pass
+51,Cynthia Hallewell,Cynthia,Hallewell,48(812)215-1113,Bearnard Corballis,380(978)457-4457,1584963190,144,1584963334,84,New York City,NY,91 Columbus Parkway
+52,Goober Pothbury,Goober,Pothbury,86(633)683-7935,Wendeline Henniger,504(589)112-4057,1578106553,83,1578106636,5,Rochester,NY,0293 Union Park
+53,Nefen Brash,Nefen,Brash,7(847)243-3757,Anna Clementson,33(550)374-0274,1589797751,277,1589798028,83,New York City,NY,94497 Menomonie Road
+54,Patty Bramo,Patty,Bramo,46(287)165-4068,Rosamund Waterfield,84(901)520-8605,1600731254,185,1600731439,86,New York City,NY,8 Shasta Court
+55,Nefen Brash,Nefen,Brash,7(847)243-3757,Audra Bunworth,53(780)633-7901,1576914956,52,1576915008,48,Hicksville,NY,4241 Haas Road
+56,Sherill Grzelak,Sherill,Grzelak,383(918)121-4739,Mercy Bartolomivis,62(116)664-6727,1595255664,118,1595255782,127,Albany,NY,138 Park Meadow Street
+57,Terza Petford,Terza,Petford,33(215)708-1442,Ariel Saylor,54(691)567-2687,1583727655,364,1583728019,84,New York City,NY,28 Portage Avenue
+58,Raf Chisnall,Raf,Chisnall,970(881)968-1625,Gracie Sodo,62(842)653-7499,1596460268,373,1596460641,140,Great Neck,NY,2 Florence Junction
+59,Janette Havock,Janette,Havock,850(720)958-9751,Nissa Cristofvao,86(630)394-2559,1594048384,127,1594048511,107,Buffalo,NY,872 Almo Court
+60,Lee Mincini,Lee,Mincini,66(457)182-8646,Galvin Ugolini,7(500)270-6716,1592253296,112,1592253408,140,Great Neck,NY,5555 Melody Trail
+61,Tawnya Ahmed,Tawnya,Ahmed,62(620)634-0178,Casper Ineson,62(117)657-8041,1586382729,336,1586383065,114,Brooklyn,NY,918 Shoshone Hill
+62,Gregg Fronczak,Gregg,Fronczak,98(951)928-5279,Chlo Test,33(777)359-8546,1598560156,34,1598560190,34,New York City,NY,301 Holmberg Avenue
+63,Tore Farahar,Tore,Farahar,63(977)351-5233,Kurtis Heed,51(446)172-2693,1602578355,116,1602578471,142,New York City,NY,721 Annamark Way
+64,Jedediah Prestner,Jedediah,Prestner,62(836)170-4398,Darla Fitchett,51(847)336-0553,1586325484,33,1586325517,19,Albany,NY,954 Towne Alley
+65,Tabbi Ternott,Tabbi,Ternott,855(181)231-3050,Jeffie Hamly,81(350)116-8396,1577690572,19,1577690591,143,Buffalo,NY,796 Clove Crossing
+66,Price Eppson,Price,Eppson,86(177)412-2556,Isaac Romeuf,63(738)252-6696,1590045955,216,1590046171,125,Brooklyn,NY,8 Scoville Place
+67,Edith Rutigliano,Edith,Rutigliano,86(268)744-4648,Frances Pendered,502(922)626-9477,1596261089,94,1596261183,69,New York City,NY,3595 Anzinger Crossing
+68,Malorie Bywaters,Malorie,Bywaters,86(212)436-7743,Rozalie Tejada,54(880)925-2832,1576438031,370,1576438401,55,New York City,NY,33 Lukken Center
+69,Geri Cousans,Geri,Cousans,86(729)572-7790,Jennifer Faughey,49(768)707-1031,1585569559,175,1585569734,131,New York City,NY,52648 Monica Trail
+70,Ives Comettoi,Ives,Comettoi,86(311)775-6521,Kurtis Heed,51(446)172-2693,1604255569,337,1604255906,68,Brooklyn,NY,454 Lakewood Terrace
+71,Lona Kildea,Lona,Kildea,51(528)855-3264,Avis Brickett,63(383)950-3108,1594038100,358,1594038458,37,Buffalo,NY,1 Sugar Street
+72,Gracie Longlands,Gracie,Longlands,48(596)554-0226,Rowena Sleaford,46(244)916-2315,1590875959,23,1590875982,143,Brooklyn,NY,3 Briar Crest Avenue
+73,Shaun Mateo,Shaun,Mateo,1(465)791-8592,Candace Stallwood,86(161)932-8231,1591955089,296,1591955385,93,New York City,NY,22 Schiller Street
+74,Jo Appleford,Jo,Appleford,62(729)111-9475,Lisa Lyste,86(995)140-7957,1604202298,55,1604202353,5,New York City,NY,38 Kingsford Place
+75,Jillayne Edmands,Jillayne,Edmands,242(605)963-0227,Calida Cubberley,86(707)532-0252,1573816618,365,1573816983,55,New York City,NY,15924 Shoshone Hill
+76,Barron Masedon,Barron,Masedon,86(239)257-5821,Chelsie Mathis,63(259)403-2779,1596795871,141,1596796012,129,Brooklyn,NY,0 Dorton Point
+77,Aubrey Tomaskunas,Aubrey,Tomaskunas,351(716)372-4981,Sydney Laux,370(410)399-7576,1597908389,161,1597908550,93,Port Washington,NY,29 6th Park
+78,Ilene Corey,Ilene,Corey,86(415)473-0225,Nappy Tythacott,86(627)824-9918,1587826893,382,1587827275,114,New York City,NY,0 Dexter Place
+79,Jania Brou,Jania,Brou,66(992)901-5469,Zacharia Bocock,52(370)641-4188,1593034568,290,1593034858,137,Schenectady,NY,7 Hoepker Alley
+80,Darbie Summerscales,Darbie,Summerscales,385(816)826-9998,Tildy Barkas,358(500)799-4300,1587630145,321,1587630466,76,Syracuse,NY,9 Loeprich Road
+81,Rosanna Deeson,Rosanna,Deeson,7(117)488-1797,Leo Canedo,84(336)501-0343,1581909017,217,1581909234,129,Buffalo,NY,0450 Lerdahl Road
+82,Johny Lingner,Johny,Lingner,351(617)272-2007,Mollie Quirke,46(876)291-5207,1594575454,280,1594575734,81,Brooklyn,NY,98227 Bayside Plaza
+83,Jamison De Simoni,Jamison,De Simoni,62(832)174-4065,Lorenza Vasilkov,30(386)120-2880,1583096475,280,1583096755,65,New York City,NY,09746 Kipling Park
+84,Theresa Samter,Theresa,Samter,86(799)778-2743,Fritz Gannon,86(484)557-6683,1597387782,285,1597388067,66,New York City,NY,8375 Dapin Center
+85,Arthur Padrick,Arthur,Padrick,63(208)168-1853,Antoine Puckham,351(635)277-2293,1585135572,331,1585135903,97,Buffalo,NY,7 Merrick Hill
+86,Oralie Waghorn,Oralie,Waghorn,52(827)872-2319,Joey Larmuth,66(878)805-8478,1578499703,65,1578499768,9,Albany,NY,553 Menomonie Way
+87,Paco Mayow,Paco,Mayow,86(737)623-9225,Monro Sango,62(678)287-6038,1580990142,303,1580990445,97,Flushing,NY,7071 Bartillon Trail
+88,Rowena Sleaford,Rowena,Sleaford,46(244)916-2315,Jamison De Simoni,62(832)174-4065,1600646610,92,1600646702,137,Great Neck,NY,18633 Warrior Avenue
+89,Isahella MacDuff,Isahella,MacDuff,7(229)210-4334,Ofelia Colebrook,63(754)452-9366,1585863400,172,1585863572,100,Albany,NY,49 Delladonna Circle
+90,Mona Seathwright,Mona,Seathwright,385(380)351-9704,Horacio Ruppel,502(167)804-4970,1599197309,270,1599197579,104,Utica,NY,61 Shopko Pass
+91,Tana Wyldes,Tana,Wyldes,66(177)644-1234,Lionel Kubacki,380(543)254-0045,1576769307,138,1576769445,4,Rochester,NY,82890 Spaight Circle
+92,Leora Caldecot,Leora,Caldecot,86(614)213-0766,Leo Canedo,84(336)501-0343,1581823076,307,1581823383,95,Brooklyn,NY,24087 Utah Park
+93,Kory Merriton,Kory,Merriton,7(130)733-1872,Teodoor Bisley,86(675)102-5241,1589658943,361,1589659304,57,New Hyde Park,NY,98 Twin Pines Street
+94,Valle Condie,Valle,Condie,86(648)127-3186,Nady Gillie,55(153)847-2289,1590144758,182,1590144940,143,New York City,NY,3 Brentwood Park
+95,Brewster Larchiere,Brewster,Larchiere,86(788)148-3944,Averyl Woodman,7(831)789-1728,1578981367,206,1578981573,64,Syracuse,NY,31 Northview Drive
+96,Oriana Waterson,Oriana,Waterson,62(952)413-1763,Coleman Ashwell,351(891)903-3456,1602889665,248,1602889913,39,Buffalo,NY,83475 Express Plaza
+97,Ravid Cissen,Ravid,Cissen,63(133)653-0334,Bradney Adriaan,81(653)888-1489,1583227729,249,1583227978,21,Buffalo,NY,8533 Kropf Pass
+98,Delmar Aylmer,Delmar,Aylmer,46(187)804-3935,Cynthea Codrington,351(455)944-3923,1591376476,77,1591376553,136,Buffalo,NY,6 Montana Trail
+99,Rainer Sentance,Rainer,Sentance,63(421)436-0909,Odele Killingworth,218(168)674-5817,1592725762,354,1592726116,81,Albany,NY,81 Karstens Park
+100,Scot O'Driscole,Scot,O'Driscole,86(272)413-8249,Candace Stallwood,86(161)932-8231,1589685990,56,1589686046,19,New York City,NY,1 Talisman Place
