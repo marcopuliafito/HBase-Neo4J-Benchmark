@@ -1,0 +1,17 @@
+CREATE CONSTRAINT ON (a:PERSON) assert a.number is unique;
+CREATE CONSTRAINT ON (b:CALL) assert b.id is unique;
+CREATE CONSTRAINT ON (c:LOCATION) assert c.cell_tower is unique;
+CREATE CONSTRAINT ON (d:STATE) assert d.name is unique;
+CREATE CONSTRAINT ON (e:CITY) assert e.name is unique;
+USING PERIODIC COMMIT 1000 LOAD CSV WITH HEADERS FROM "File:///Call_1000.csv" AS line MERGE (a:PERSON {number: line.CALLING_NBR}) ON CREATE SET a.first_name = line.FIRST_NAME, a.last_name = line.LAST_NAME, a.full_name = line.FULL_NAME ON MATCH SET a.first_name = line.FIRST_NAME, a.last_name = line.LAST_NAME, a.full_name = line.FULL_NAME MERGE (b:PERSON {number: line.CALLED_NBR}) ON CREATE SET b.full_name = line.FULL_NAME_CALLED ON MATCH SET b.full_name = line.FULL_NAME_CALLED MERGE (c:CALL {id: line.ID}) ON CREATE SET c.start = line.START_DATE, c.end= line.END_DATE, c.duration = line.DURATION MERGE (d:LOCATION {cell_tower: line.CELL_TOWER}) ON CREATE SET d.address = line.ADDRESS, d.state = line.STATE, d.city = line.CITY MERGE (e:CITY {name: line.CITY }) MERGE (f:STATE {name: line.STATE});
+
+Secondo comando da lanciare:
+
+DROP CONSTRAINT ON (a:PERSON) ASSERT a.number IS UNIQUE;
+DROP CONSTRAINT ON (a:CALL) ASSERT a.id IS UNIQUE;
+DROP CONSTRAINT ON (a:LOCATION) ASSERT a.cell_tower IS UNIQUE;
+CREATE INDEX ON :PERSON(number);
+CREATE INDEX ON :CALL(id);
+CREATE INDEX ON :LOCATION(cell_tower);
+USING PERIODIC COMMIT 1000 LOAD CSV WITH HEADERS FROM "File:///Call_1000.csv" AS line MATCH (a:PERSON {number: line.CALLING_NBR}),(b:PERSON {number: line.CALLED_NBR}),(c:CALL {id: line.ID}) CREATE (a)-[:MADE_CALL]->(c)-[:RECEIVED_CALL]->(b) WITH line MATCH (a:CALL {id: line.ID}), (b:LOCATION {cell_tower: line.CELL_TOWER}) CREATE (a)-[:LOCATED_IN]->(b) WITH line MATCH (a:LOCATION {cell_tower: line.CELL_TOWER}), (b:STATE {name: line.STATE}), (c:CITY {name: line.CITY}) CREATE (b)<-[:HAS_STATE]-(a)-[:HAS_CITY]->(c);
+
