@@ -302,7 +302,7 @@ public class HbasecriminalInvestigation {
         for(int i=0; i<31; i++){
             long start = System.nanoTime();
             /******* ESEGUO LA QUERY 2*******/
-            query4();
+            query5();
             long end = System.nanoTime();
             String total = String.valueOf((end - start) / millisecondi); //trasformo in millisecondo dividendo per 10 alla meno 6
             w.write(total + " ");
